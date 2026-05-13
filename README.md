@@ -72,14 +72,15 @@ python -m uvicorn app.main:app --reload
 ## Frontend URL
 
 ```bash
-http://localhost:5173
+https://briefly-ai-sigma.vercel.app/
 ```
 
 ## Backend URL
 
 ```bash
-http://127.0.0.1:8000
+https://briefly-ai-backend-doas.onrender.com/
 ```
+
 
 ## Future Improvements
 
@@ -96,4 +97,4 @@ http://127.0.0.1:8000
 Tanya Garg
 =======
 Tanya Garg
->>>>>>> 5cd8c39f59b0c3719a835e99ad8b471730815670
+>>>>>>> 
