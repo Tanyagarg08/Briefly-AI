@@ -92,4 +92,8 @@ http://127.0.0.1:8000
 
 ## Author
 
+<<<<<<< HEAD
 Tanya Garg
+=======
+Tanya Garg
+>>>>>>> 5cd8c39f59b0c3719a835e99ad8b471730815670

@@ -52,7 +52,7 @@ function App() {
       setLoading(true);
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/summarize",
+        "https://briefly-ai-backend-doas.onrender.com/summarize",
         {
           text,
         }
@@ -87,7 +87,7 @@ function App() {
       setLoading(true);
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/upload-pdf",
+        "https://briefly-ai-backend-doas.onrender.com/upload-pdf",
         formData,
         {
           headers: {
